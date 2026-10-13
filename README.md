@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**sumeeramadushan520-tech/sumeeramadushan520-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sumeera Madushan 👋
 
-Here are some ideas to get you started:
+### Software Engineering Undergraduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering undergraduate interested in building practical software solutions and learning modern technologies.
+
+---
+
+## 🚀 Featured Projects
+
+- 📱 Mobile-Based Intelligent Teacher Discovery and Recommendation System
+- 🏫 Salon System
+- 🌐 Web Development Projects
+- 📱 Flutter Projects
+
+---
+
+## 🛠️ Skills
+
+### Programming & Development
+
+- Flutter
+- Dart
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+
+### Tools & Technologies
+
+- Firebase
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+---
+
+## 🎯 Interests
+
+- Mobile Application Development
+- Web Development
+- Artificial Intelligence
+- Educational Technology
+- Software Engineering
+
+---
+
+## 📚 Currently Learning
+
+- Git & GitHub
+- Flutter
+- Firebase
+- Web Development
+- Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+GitHub: [@sumeeramadushan520-tech](https://github.com/sumeeramadushan520-tech)
