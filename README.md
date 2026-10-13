@@ -6,16 +6,12 @@
 
 I'm a Software Engineering undergraduate interested in building practical software solutions and learning modern technologies.
 
----
-
 ## 🚀 Featured Projects
 
 - 📱 Mobile-Based Intelligent Teacher Discovery and Recommendation System
 - 🏫 Salon System
 - 🌐 Web Development Projects
 - 📱 Flutter Projects
-
----
 
 ## 🛠️ Skills
 
@@ -37,7 +33,6 @@ I'm a Software Engineering undergraduate interested in building practical softwa
 - VS Code
 - Android Studio
 
----
 
 ## 🎯 Interests
 
@@ -47,8 +42,6 @@ I'm a Software Engineering undergraduate interested in building practical softwa
 - Educational Technology
 - Software Engineering
 
----
-
 ## 📚 Currently Learning
 
 - Git & GitHub
@@ -56,8 +49,6 @@ I'm a Software Engineering undergraduate interested in building practical softwa
 - Firebase
 - Web Development
 - Software Engineering
-
----
 
 ## 📫 Connect With Me
 
