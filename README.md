@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Sumeera Madushan 👋
 
 ### Software Engineering Undergraduate
